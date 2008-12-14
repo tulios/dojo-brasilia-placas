@@ -1,0 +1,1350 @@
+13/12/2008 13:10:12 java.util.logging.LogManager$RootLogger log
+INFO: Logging at level INFO
+13/12/2008 13:10:12 java.util.logging.LogManager$RootLogger log
+INFO: Detected class directory: C:\Projetos\eclipse\workspace-2009\placas\bin
+13/12/2008 13:10:12 java.util.logging.LogManager$RootLogger log
+INFO: Starting Infinitest with: Classpath :[C:\Projetos\eclipse\workspace-2009\placas\bin;C:\Projetos\Frameworks and library\infinitest-4.0\infinitest.jar;D:\eclipse-jee-ganymede-win32\eclipse\plugins\org.junit4_4.3.1\junit.jar]  Class Directories: [[C:\Projetos\eclipse\workspace-2009\placas\bin]]
+13/12/2008 13:10:12 java.util.logging.LogManager$RootLogger log
+WARNING: Filter file infinitest.filters does not exist
+13/12/2008 13:10:15 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 13:10:15 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 13:10:15 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 13:10:15 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 13:10:15 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 13:39:55 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 13:39:55 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 13:39:55 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 13:39:55 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 13:39:55 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 13:43:46 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 13:44:52 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 13:45:56 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 13:46:14 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 13:46:33 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class, C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 13:46:57 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class, C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 13:47:24 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 13:47:24 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 13:47:24 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 13:47:24 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 13:47:24 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 13:48:20 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 13:48:20 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 13:48:20 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 13:48:20 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 13:48:20 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 13:51:05 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 13:51:05 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 13:51:05 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 13:51:05 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 13:51:05 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 13:51:29 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 13:51:29 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 13:51:29 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 13:51:29 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 13:51:29 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 13:53:08 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class, C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 13:53:08 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 13:53:08 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 13:53:08 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 13:53:08 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 13:53:18 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 13:53:18 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 13:53:18 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 13:53:19 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 13:53:19 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 13:53:26 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 13:53:26 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 13:53:26 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 13:53:26 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 13:53:26 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 13:58:36 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 13:58:36 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 13:58:36 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 13:58:38 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 13:58:38 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 13:59:10 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 13:59:10 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 13:59:10 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 13:59:10 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 13:59:10 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:01:20 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:01:20 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:01:20 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:01:21 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:01:21 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:01:25 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:01:25 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:01:25 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:01:25 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:01:25 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:05:20 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:05:20 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:05:20 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:05:21 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:05:21 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:07:47 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:07:47 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:07:47 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:07:48 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:07:48 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:08:44 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:08:44 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:08:44 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:08:45 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:08:45 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:10:46 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:10:46 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:10:46 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:10:46 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:10:46 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:11:11 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:11:11 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:11:11 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:11:12 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:11:12 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:12:08 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:12:08 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:12:08 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:12:09 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:12:09 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:12:19 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:12:19 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:12:19 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:12:19 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:12:19 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:12:35 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:12:35 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:12:35 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:12:36 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:12:36 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:13:01 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:13:01 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:13:01 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:13:01 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:13:01 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:13:25 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:13:25 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:13:25 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:13:25 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:13:25 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:13:49 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:13:49 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:13:49 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:13:49 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:13:49 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:13:58 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:13:58 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:13:58 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:13:58 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:13:58 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:14:39 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:14:39 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:14:39 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:14:39 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:14:39 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:15:00 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:15:00 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:15:00 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:15:00 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:15:00 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:17:10 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:17:10 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:17:10 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:17:11 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:17:11 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:17:15 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:17:15 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:17:15 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:17:15 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:17:15 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:17:55 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:17:55 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:17:55 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:17:56 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:17:56 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:18:25 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:18:25 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:18:25 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:18:25 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:18:25 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:18:31 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:18:31 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:18:31 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:18:32 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:18:32 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:18:58 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:18:58 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:18:58 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:18:58 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:18:58 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:19:13 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:19:13 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:19:13 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:19:14 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:19:14 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:19:45 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:19:45 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:19:45 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:19:45 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:19:45 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:20:43 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:20:43 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:20:43 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:20:44 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:20:44 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:21:09 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:21:09 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:21:09 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:21:09 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:21:09 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:21:22 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:21:22 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:21:22 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:21:23 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:21:23 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:22:31 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:22:31 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:22:31 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:22:32 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:22:32 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:25:33 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:25:33 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:25:33 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:25:33 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:25:33 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:26:09 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:26:09 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:26:09 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:26:09 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:26:09 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:26:13 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:26:13 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:26:13 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:26:14 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:26:14 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:26:34 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:26:34 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:26:34 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:26:35 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:26:35 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:26:39 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:26:39 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:26:39 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:26:39 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:26:39 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:27:58 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:27:58 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:27:58 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:27:59 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:27:59 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:28:31 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:28:31 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:28:31 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:28:32 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:28:32 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:28:39 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:28:39 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:28:39 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:28:39 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:28:39 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:28:55 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:28:55 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:28:55 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:28:56 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:28:56 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:29:33 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:29:33 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:29:33 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:29:33 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:29:33 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:29:47 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:29:47 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:29:47 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:29:47 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:29:47 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:30:03 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:30:03 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:30:03 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:30:03 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:30:03 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:30:18 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:30:18 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:30:18 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:30:18 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:30:18 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:31:42 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:31:42 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:31:42 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:31:42 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:31:42 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:32:05 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:32:05 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:32:05 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:32:05 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:32:05 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:33:02 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:33:02 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:33:02 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:33:02 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:33:02 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:33:05 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:33:05 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:33:05 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:33:05 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:33:05 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:33:50 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:33:50 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:33:50 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:33:50 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:33:50 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:34:12 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:34:12 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:34:12 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:34:13 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:34:13 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:40:08 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:40:08 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:40:08 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:40:08 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:40:08 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:40:56 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:40:56 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:40:56 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:40:56 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:40:56 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:41:03 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 14:41:03 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:41:03 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:41:04 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:41:04 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:43:44 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:43:44 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:43:44 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:43:45 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:43:45 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:43:52 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:43:52 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:43:52 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:43:52 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:43:52 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:44:37 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:44:37 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:44:37 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:44:37 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:44:37 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:45:22 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:45:22 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:45:22 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:45:22 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:45:22 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:46:02 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:46:02 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:46:02 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:46:03 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:46:03 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:46:43 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:46:43 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:46:43 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:46:43 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:46:43 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:47:07 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:47:07 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:47:07 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:47:07 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:47:07 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:47:22 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:47:22 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:47:22 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:47:22 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:47:22 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:47:25 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:47:25 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:47:25 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:47:25 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:47:25 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:47:29 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:47:29 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:47:29 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:47:30 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:47:30 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:48:04 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:48:04 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:48:04 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:48:04 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:48:04 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:48:14 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:48:14 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:48:14 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:48:15 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:48:15 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:48:31 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:48:31 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:48:31 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:48:31 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:48:31 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:48:34 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:48:34 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:48:34 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:48:34 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:48:34 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:49:08 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:49:08 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:49:08 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:49:09 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:49:09 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:49:23 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:49:23 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:49:23 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:49:24 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:49:24 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:49:46 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:49:46 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:49:46 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:49:46 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:49:46 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:50:04 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:50:04 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:50:04 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:50:04 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:50:04 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:50:47 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:50:47 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:50:47 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:50:48 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:50:48 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:51:04 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:51:04 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:51:04 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:51:04 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:51:04 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:51:22 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:51:22 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:51:22 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:51:22 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:51:22 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:51:58 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:51:58 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:51:58 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:51:58 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:51:58 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:52:11 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:52:11 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:52:11 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:52:12 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:52:12 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:52:17 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:52:17 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:52:17 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:52:18 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:52:18 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:52:37 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:52:37 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:52:37 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:52:37 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:52:37 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:52:47 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:52:47 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:52:47 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:52:48 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:52:48 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:52:55 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:52:55 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:52:55 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:52:55 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:52:55 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:54:25 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:54:25 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:54:25 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:54:25 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:54:25 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:55:22 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:55:22 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:55:22 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:55:23 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:55:23 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:55:40 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:55:40 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:55:40 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:55:40 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:55:40 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:55:45 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:55:45 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:55:45 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:55:45 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:55:45 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:56:15 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:56:15 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:56:15 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:56:15 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:56:15 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:56:30 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:56:30 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:56:30 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:56:30 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:56:30 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:56:43 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:56:43 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:56:43 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:56:43 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:56:43 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:57:36 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:57:36 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:57:36 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:57:36 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:57:36 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:58:00 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:58:00 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:58:00 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:58:00 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:58:00 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:58:45 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:58:45 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:58:45 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:58:45 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:58:45 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:59:01 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:59:01 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:59:01 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:59:02 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:59:02 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:59:25 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:59:25 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:59:25 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:59:26 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:59:26 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 14:59:43 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 14:59:43 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 14:59:43 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 14:59:44 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 14:59:44 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:02:22 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:02:22 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:02:22 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:02:23 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:02:23 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:03:24 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:03:24 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:03:24 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:03:24 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:03:24 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:04:15 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:04:15 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:04:15 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:04:15 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:04:15 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:04:46 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:04:46 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:04:46 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:04:47 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:04:47 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:04:55 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:04:55 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:04:55 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:04:56 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:04:56 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:05:07 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:05:07 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:05:07 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:05:08 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:05:08 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:05:13 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:05:13 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:05:13 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:05:14 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:05:14 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:05:28 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:05:28 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:05:28 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:05:29 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:05:29 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:05:33 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:05:33 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:05:33 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:05:34 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:05:34 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:06:09 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:06:09 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:06:09 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:06:10 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:06:10 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:06:15 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:06:15 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:06:15 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:06:16 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:06:16 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:07:22 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:07:22 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:07:22 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:07:23 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:07:23 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:11:18 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 15:11:18 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:11:18 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:11:19 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:11:19 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:11:21 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 15:11:21 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:11:21 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:11:22 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:11:22 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:11:26 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:11:26 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:11:26 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:11:26 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:11:26 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:11:48 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:11:48 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:11:48 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:11:49 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:11:49 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:11:51 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:11:51 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:11:51 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:11:52 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:11:52 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:12:03 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:12:03 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:12:03 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:12:04 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:12:04 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:12:14 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:12:14 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:12:14 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:12:14 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:12:14 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:12:21 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 15:12:21 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:12:21 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:12:22 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:12:22 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:12:35 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:12:35 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:12:35 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:12:35 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:12:35 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:12:39 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:12:39 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:12:39 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:12:40 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:12:40 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:13:03 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 15:13:03 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:13:03 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:13:04 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:13:04 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:19:27 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 15:19:27 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:19:27 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:19:28 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:19:28 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:20:08 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 15:20:08 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:20:08 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:20:09 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:20:09 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:20:54 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:20:54 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:20:55 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:20:55 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:20:55 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:21:22 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 15:21:22 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:21:22 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:21:22 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:21:22 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:28:17 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 15:28:17 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:28:17 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:28:18 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:28:18 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:28:31 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\Placa.class]
+13/12/2008 15:28:31 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:28:31 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:28:31 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:28:31 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:30:41 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:30:41 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:30:41 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:30:42 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:30:42 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:30:46 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:30:46 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:30:46 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:30:47 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:30:47 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+13/12/2008 15:32:53 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\placas\bin\br\dojo\placas\TestePlacas.class]
+13/12/2008 15:32:53 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.placas.TestePlacas]
+13/12/2008 15:32:53 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+13/12/2008 15:32:54 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+13/12/2008 15:32:54 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
