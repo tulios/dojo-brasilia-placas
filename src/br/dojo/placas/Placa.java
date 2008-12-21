@@ -3,7 +3,7 @@ package br.dojo.placas;
 public class Placa {
 
 	public static int comparar(String placa1, String placa2) {
-						
+					
 		if(placa1.equals(placa2)){
 			return 0;
 		}else{
@@ -12,27 +12,28 @@ public class Placa {
 
 			int num1 = Integer.parseInt(s1[1]+s1[2]);
 			int num2 = Integer.parseInt(s2[1]+s2[2]);
+			
+			int diferencaNumerica = Math.abs(num2 - num1);
+			
+			if (!s1[0].equals(s2[0])) {				
+				return diferencaLetras(s2[0], s1[0])*10000 -
+					   diferencaNumerica;
+			}
 									
-			return Math.abs(num2 - num1);
+			return diferencaNumerica;
 		}
 		
 	}
 
-	public static String incrementaLetra(String letra) {
-		// TODO vai cícero!
-		char palavra[] = letra.toCharArray();
-		return String.valueOf(palavra[0])+String.valueOf(++palavra[1]);
+	public static int diferencaLetras(String letra2, String letra1) {
+		char a[] = letra1.toCharArray();
+		int numLetra1 = (a[0]-'A'+1)*26+(a[1]-'A'+1);
+		char b[] = letra2.toCharArray();
+		int numLetra2 = (b[0]-'A'+1)*26+(b[1]-'A'+1);
 		
-		
-		/*if(palavra[1]=='A')
-			return "AB";
-		else if(palavra[1]=='B')
-			return "AC";
-		else if(palavra[1]=='C')
-			return "AD";
-		
-		return "";*/
-			
+		return numLetra2-numLetra1;
 	}
+
+	
 
 }

@@ -48,7 +48,6 @@ public class TestePlacas {
 		}
 	}
 	
-	
 	@Test
 	public void comparandoPlacasDiferencaNNumeroInvertido() {
 		String placa1 = "AA-00-00";		
@@ -134,47 +133,74 @@ public class TestePlacas {
 	}
 	
 	@Test
-	public void incrementaLetrasDeAA_AteAB(){
-		String letra1 = "AA";
-		String letra2 = "AB";
-		
-		assertEquals(letra2, Placa.incrementaLetra(letra1));
+	public void comparandoPlacasMudandoLetraDeAAeAB() {
+		String placa1 = "AA-99-99";		
+		String placa2 = "AB-00-00";
+
+		int valor = Placa.comparar(placa1,placa2);
+		assertEquals(1, valor);
 	}
 	
 	@Test
-	public void incrementaLetrasDeAB_AteAC(){
-		String letra1 = "AB";
+	public void comparandoPlacasMudandoLetraDeAAeAC() {
+		String placa1 = "AA-99-99";		
+		String placa2 = "AC-00-00";
+
+		int valor = Placa.comparar(placa1,placa2);
+		assertEquals(10001, valor);
+	}
+	
+	@Test
+	public void diferencaLetraAAeAB() {
+		String letra1 = "AA";		
+		String letra2 = "AB";
+		assertEquals(1, Placa.diferencaLetras(letra2, letra1));
+	}
+	
+	@Test
+	public void diferencaLetraABeAC() {
+		String letra1 = "AB";		
 		String letra2 = "AC";
-		
-		assertEquals(letra2, Placa.incrementaLetra(letra1));
+		assertEquals(1, Placa.diferencaLetras(letra2, letra1));
+	}
+	
+	@Test
+	public void comparandoPlacasMudandoLetraAAeAC() {
+		String placa1 = "AB-00-00";		
+		String placa2 = "AC-00-00";
+
+		int valor = Placa.comparar(placa1,placa2);
+		assertEquals(10000, valor);
 	}
 
 	@Test
-	public void incrementaLetrasDeAC_AteAD(){
-		String letra1 = "AC";
-		String letra2 = "AD";
+	public void comparandoPlacasMudandoLetraAAeAZ() {
+		String placa1 = "AA-00-00";		
+		String placa2 = "AZ-00-00";
 		
-		assertEquals(letra2, Placa.incrementaLetra(letra1));
+		int valor = Placa.comparar(placa1,placa2);
+		assertEquals(250000, valor);
 	}
 	
 	@Test
-	public void percorreAA_AteAZ(){
-		String letra1 = "AA";
-		String letra2 = "AZ";
+	public void comparandoPlacasMudandoLetraAZeBA() {
+		String placa1 = "AZ-00-00";		
+		String placa2 = "BA-00-00";
 		
-		assertEquals(letra2, Placa.incrementaLetra(letra1));
+		int valor = Placa.comparar(placa1,placa2);
+		assertEquals(10000, valor);
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	@Test
+	public void comparandoPlacasMudandoLetraAAeZZ() {
+		String placa1 = "AA-00-00";		
+		String placa2 = "ZZ-00-00";
+		
+		int qtdeLetras = 'Z'-'A'+1;
+		
+		int valor = Placa.comparar(placa1,placa2);
+		assertEquals((qtdeLetras*qtdeLetras-1)*10000, valor);
+	}
 	
 
 
